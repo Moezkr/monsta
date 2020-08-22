@@ -1281,7 +1281,7 @@ grid-gap: 15rem;
         height: 100%;
     
         background: url("images/triangle.jpg") no-repeat fixed center ;
-        background-size: contain  ;
+        background-size: cover  ;
     }
 #videobg{
     display: none;
@@ -1324,7 +1324,7 @@ grid-gap: 15rem;
         font-size: 19px;
     }
     .has-margin-right{ 
-        margin-right: 15px;
+        margin-right: 2px;
         
     }
     .menu-toggler{
